@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title('MJ's 1st streamlit project')
+st.title('나의 첫 스트림릿')
 st.write('Hello, streamlit!')
